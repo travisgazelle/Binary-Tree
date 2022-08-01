@@ -1,1 +1,3 @@
-# Binary-Tree
+## Binary-Tree
+
+Pre-Order
